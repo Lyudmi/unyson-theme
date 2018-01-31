@@ -1,0 +1,24 @@
+/* Extra small devices (phones) */
+@media (max-width: 782px) {
+    .fw-container-fluid{
+        width: 750px;
+    }
+}
+
+/* Small devices (tablets) */
+@media (min-width: 783px) and (max-width: 900px) {
+    .fw-container-fluid{
+        width: 970px;
+    }
+
+}
+
+/* Medium devices (desktops) */
+@media (min-width: 901px) and (max-width: 1199px) {
+
+}
+
+/* Large devices (large desktops) */
+@media (min-width: 1200px) {
+
+}
